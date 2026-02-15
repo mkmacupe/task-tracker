@@ -1,4 +1,6 @@
-## 15.02.2026
 Тема: старт проекта + /health
-Теория: HTTP методы/статусы
-Сделано: создана ветка feature/boot-health
+
+
+
+Сделано: добавлен endpoint /health, ветка feature/boot-health, запуск на JDK 17
+
